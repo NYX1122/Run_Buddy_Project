@@ -12,3 +12,5 @@ https://nyx1122.github.io/Run_Buddy_Project/
 
 ## Contribution
 Made with ❤️ by BoDee Angus
+
+## ©️2019 Run Buddy, Inc
